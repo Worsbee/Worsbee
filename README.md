@@ -1,0 +1,1 @@
+Hi, I'm Jamie, a second year cybersecurity student. Many of my projects are private to comply with university regulations, but access can be provided on request. My preferred language is Python. However, I have experience in several other languages, including C and Java.
